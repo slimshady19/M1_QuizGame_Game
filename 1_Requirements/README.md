@@ -4,7 +4,7 @@ The Project is a Quiz Game Named Check Your GK, build in C Programming Language.
 
 ## High Level Requirements
 <br>Easy to Play<br/>
-<br>Has Main Menu of the Game<br/> 
+<br>Has Main Menu function in the Game<br/> 
 <br>User freindly Interface<br/>
 <br>Help option for New Users<br/>
 
