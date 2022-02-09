@@ -13,14 +13,14 @@ The Project is a Quiz Game Named Check Your GK, build in C Programming Language.
 
 
 # SWOT:
-Strength
+# Strength:
 This quiz is very easy and user friendly to play
 
-Weakness
+# Weakness:
 It Has limited questions only
 
 ## Research:
-https://learnprogramo.com/50-interesting-programming-c-projects-download-with-source-code/
+<br> https://learnprogramo.com/50-interesting-programming-c-projects-download-with-source-code/ <br/>
 
 https://www.geeksforgeeks.org/c-programming-language/?ref=leftbar
 
