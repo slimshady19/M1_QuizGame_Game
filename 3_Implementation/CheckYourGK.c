@@ -60,7 +60,7 @@ int main()
     printf("\n ------------------  Welcome %s to check Your GK Quiz Game --------------------------",playername);
     printf("\n\n Here are some tips you might wanna know before playing:");
     printf("\n -------------------------------------------------------------------------");
-    printf("\n >> There are 2 rounds in this Quiz Game,Qualifying Round & FINAL ROUND");
+    printf("\n >> There are 2 rounds in this Quiz Game, Qualifying Round & FINAL ROUND");
     printf("\n >> In warmup round you will be asked a total of 3 questions to test your");
     printf("\n    general knowledge. You are eligible to play the game if you give atleast 2");
     printf("\n    right answers, otherwise you can't proceed further to the FINAL Round.");
@@ -499,20 +499,19 @@ void help()
     printf("\n\n                              HELP");
     printf("\n -------------------------------------------------------------------------");
     printf("\n ......................... C program Quiz Game...........");
-    printf("\n >> There are two rounds in the game, WARMUP ROUND & CHALLANGE ROUND");
-    printf("\n >> In warmup round you will be asked a total of 3 questions to test your general");
+    printf("\n >> There are two rounds in the game, Qualifying Round & FINAL ROUND");
+    printf("\n >> In Qualifying round you will be asked a total of 3 questions to test your general");
     printf("\n    knowledge. You will be eligible to play the game if you can give atleast 2");
     printf("\n    right answers otherwise you can't play the Game...........");
-    printf("\n >> Your game starts with the CHALLANGE ROUND. In this round you will be asked");
-    printf("\n    total 10 questions each right answer will be awarded $100,000.");
-    printf("\n    By this way you can win upto ONE MILLION cash prize in USD...............");
+    printf("\n >> Your game starts with the FINAL ROUND. In this round you will be asked");
+    printf("\n    total 10 questions each right answer will be awarded RS 100,000.");
+    printf("\n    By this way you can win upto ONE MILLION cash prize in Rupees...............");
     printf("\n >> You will be given 4 options and you have to press A, B ,C or D for the");
     printf("\n    right option");
     printf("\n >> You will be asked questions continuously if you keep giving the right answers.");
     printf("\n >> No negative marking for wrong answers");
 
 	printf("\n\n\t*********************BEST OF LUCK*********************************");
-	printf("\n\n\t*****Devloped by Keshav Tiwari********");}
 
 void edit_score(float score, char plnm[20])
 	{system("cls");
