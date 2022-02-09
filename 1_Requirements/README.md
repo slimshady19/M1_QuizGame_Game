@@ -1,5 +1,7 @@
 # Description
-The Project is a Quiz Game Named Check Your GK, build in C Programming Language. This Game is Short and very Interesting to Check Anyone's basic General Knowledge. This Game has Two Rounds. First One is Qualifying Round.If You Won the qualifying Round, You will Be eligible For the Final Round.In Final Round You will get Rewards Based on the Number of Questions You Answered.
+<br> The Project is a Quiz Game Named Check Your GK, build in C Programming Language. This Game is Short and very Interesting to Check Anyone's basic General Knowledge. <br/>
+There are two rounds in the game, Qualifying Round & FINAL ROUND.In Qualifying round you will be asked a total of 3 questions to test your general knowledge. You will be eligible to play the game if you can give atleast 2 right answers otherwise you can't play the Game. Your game starts with the FINAL ROUND. In this round you will be asked total 10 questions each right answer will be awarded RS 100,000. You will be given 4 options and you have to press A, B ,C or D for the right option. You will be asked questions continuously if you keep giving the right answers. No negative marking for wrong answers
+
 # Requirements
 
 ## High Level Requirements
