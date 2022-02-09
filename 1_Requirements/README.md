@@ -16,14 +16,13 @@ There are two rounds in the game, Qualifying Round & FINAL ROUND.In Qualifying r
 
 # SWOT:
 ## Strength:
-This quiz is very easy and user friendly to play
+<br>This quiz Game has Main Menu Option With Help and Score Board Option<br/>
+It Has Very Easy User Interface to Play
 
 ## Weakness:
 It Has limited questions only
 
 # Research:
-<br> https://learnprogramo.com/50-interesting-programming-c-projects-download-with-source-code/ <br/>
-
 https://www.geeksforgeeks.org/c-programming-language/?ref=leftbar
 
 
