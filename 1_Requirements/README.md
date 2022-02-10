@@ -4,6 +4,16 @@ There are two rounds in the game, Qualifying Round & FINAL ROUND.In Qualifying r
 
 # Requirements
 
+## 4W'S and 1H
+## Who
+    Player
+## What
+   Can play the game
+## when
+   Whene they clear Qualifying round
+## Where
+   On System
+   
 ## High Level Requirements
 <br>Easy to Play<br/>
 <br>Has Main Menu function in the Game<br/> 
@@ -11,7 +21,9 @@ There are two rounds in the game, Qualifying Round & FINAL ROUND.In Qualifying r
 <br>Help option for New Users<br/>
 
 ## Low Level Requirements
-
+<br> It has highest score option which we can see<br/>
+<br> It has multiple option for selection <br/>
+<br> It also shows prize you won </br>
 
 
 # SWOT:
@@ -22,6 +34,8 @@ It Has Very Easy User Interface to Play
 ## Weakness:
 It Has limited questions only
 
+
+   
 # Research:
 https://www.geeksforgeeks.org/c-programming-language/?ref=leftbar
 
