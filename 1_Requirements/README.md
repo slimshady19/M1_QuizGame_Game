@@ -37,8 +37,8 @@ It Has limited questions only
 
 
    
-# Research:
-https://www.geeksforgeeks.org/c-programming-language/?ref=leftbar
+# Re:frence
+https://www.codewithc.com/quiz-game-mini-project-in-c/
 
 
 
