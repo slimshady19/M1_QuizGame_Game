@@ -11,7 +11,7 @@ There are two rounds in the game, Qualifying Round & FINAL ROUND.In Qualifying r
 ## What
    Can play the game
 ## when
-   Whene they clear Qualifying round
+   When they clear Qualifying round
 ## Where
    On System
    
