@@ -1,4 +1,5 @@
 ## Test Plan
+
 Each feature of the game is denoted by the alphabet in the Main Menu:
 <br>1-- S to start the New game <br/>
 </br>2-- V to view the highest score <br/>
