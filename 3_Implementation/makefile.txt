@@ -1,0 +1,9 @@
+#Target : Dependencies
+#<TAB>commands
+
+
+Build : Checkyourgk.c
+	  gcc Checkyourgk.c -o Checkyourgk.out
+
+Run : Checkyourgk.out
+	  ./Checkyourgk.out
