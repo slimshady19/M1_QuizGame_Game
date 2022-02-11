@@ -1,8 +1,6 @@
 # M1_QuizGame_Game
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1ca075dc1005474b9566f4abe7e679d7)](https://www.codacy.com/gh/KeshavTiwari23/M1_QuizGame_Game/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KeshavTiwari23/M1_QuizGame_Game&amp;utm_campaign=Badge_Grade) 
-(https://api.codiga.io/project/31170/score/svg)
-https://app.codiga.io/public/project/31170/M1_QuizGame_Game/dashboard
-
+[![Codiga Badge](https://api.codiga.io/project/31170/score/svg)
 Repository for creating a Quiz Game in C.
 
      Lets Play the Game!!!
