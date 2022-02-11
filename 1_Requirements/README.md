@@ -37,7 +37,7 @@ It Has limited questions only
 
 
    
-# Re:frence
+# Refrence
 https://www.codewithc.com/quiz-game-mini-project-in-c/
 
 
