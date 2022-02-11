@@ -15,14 +15,12 @@ int main()
      char playername[20];
      mainhome:
      system("cls");
-     printf("\t\t\tC PROGRAM QUIZ GAME\n");
-     printf("\n\t\t________________________________________");
-
+    
      printf("\n\t\t\t   WELCOME ");
      printf("\n\t\t\t      to ");
      printf("\n\t\t\t   THE GAME ");
      printf("\n\t\t________________________________________");
-     printf("\n\t\t________________________________________");
+    
      printf("\n\t\t   CHECK YOUR GK!!!!!!!!!!!    ") ;
      printf("\n\t\t________________________________________");
      printf("\n\t\t________________________________________");
@@ -60,12 +58,12 @@ int main()
     printf("\n ------------------  Welcome %s to check Your GK Quiz Game --------------------------",playername);
     printf("\n\n Here are some tips you might wanna know before playing:");
     printf("\n -------------------------------------------------------------------------");
-    printf("\n >> There are 2 rounds in this Quiz Game, Qualifying Round & FINAL ROUND");
+    printf("\n >> There are 2 rounds in this Quiz Game,WARMUP ROUND & CHALLANGE ROUND");
     printf("\n >> In warmup round you will be asked a total of 3 questions to test your");
     printf("\n    general knowledge. You are eligible to play the game if you give atleast 2");
-    printf("\n    right answers, otherwise you can't proceed further to the FINAL Round.");
+    printf("\n    right answers, otherwise you can't proceed further to the Challenge Round.");
     printf("\n >> Your game starts with CHALLANGE ROUND. In this round you will be asked a");
-    printf("\n    total of 10 questions. Each right answer will be awarded RS 100,000!");
+    printf("\n    total of 10 questions. Each right answer will be awarded $100,000!");
     printf("\n    By this way you can win upto ONE MILLION cash prize!!!!!..........");
     printf("\n >> You will be given 4 options and you have to press A, B ,C or D for the");
     printf("\n    right option.");
@@ -306,139 +304,7 @@ game:
 		else
 		       {printf("\n\nWrong!!! The correct answer is A.Nile");getch();break;goto score;}
 
-        case 11:
-		printf("\n\n\nWhat is the color of the Black Box in aeroplanes?");
-		printf("\n\nA.White\t\tB.Black\n\nC.Orange\t\tD.Red");
-		if (toupper(getch())=='C')
-			{printf("\n\nCorrect!!!");countr++;getch();
-			 break;}
-		else
-              {printf("\n\nWrong!!! The correct answer is C.Orange");getch();
-              break;goto score;}
-
-        case 12:
-		printf("\n\n\nWhich city is known at 'The City of Seven Hills'?");
-		printf("\n\nA.Rome\t\tB.Vactican City\n\nC.Madrid\t\tD.Berlin");
-		if (toupper(getch())=='A')
-			  {printf("\n\nCorrect!!!");countr++;getch();
-			   break;}
-		else
-              {printf("\n\nWrong!!! The correct answer is A.Rome");getch();
-              break;goto score;}
-
-		case 13:
-		printf("\n\n\nName the country where there no mosquitoes are found?");
-		printf("\n\nA.Japan\t\tB.Italy\n\nC.Argentina\t\tD.France");
-		if (toupper(getch())=='D')
-			{printf("\n\nCorrect!!!");countr++;getch();
-			break;}
-		else
-		       {printf("\n\nWrong!!! The correct answer is D.France");getch();
-		       break;goto score;}
-
-        case 14:
-		printf("\n\n\nWho is the author of 'Pulpasa Cafe'?");
-		printf("\n\nA.Narayan Wagle\t\tB.Lal Gopal Subedi\n\nC.B.P. Koirala\t\tD.Khagendra Sangraula");
-		if (toupper(getch())=='A')
-			{printf("\n\nCorrect!!!");countr++;getch();
-			 break;}
-		else
-		       {printf("\n\nWrong!!! The correct answer is A.Narayan Wagle");getch();
-		       break;goto score;}
-
-		case 15:
-		printf("\n\n\nWhich Blood Group is known as the Universal Recipient?");
-		printf("\n\nA.A\t\tB.AB\n\nC.B\t\tD.O");
-		if (toupper(getch())=='B')
-			{printf("\n\nCorrect!!!");countr++;getch();
-			 break;}
-		else
-		       {printf("\n\nWrong!!! The correct answer is B.AB");getch();
-		       goto score;
-		       break;}
-
-		case 16:
-		printf("\n\n\nWhat is the unit of measurement of distance between Stars?");
-		printf("\n\nA.Light Year\t\tB.Coulomb\n\nC.Nautical Mile\t\tD.Kilometer");
-		if (toupper(getch())=='A')
-			{printf("\n\nCorrect!!!");countr++; getch();
-			break;
-			}
-		else
-		       {printf("\n\nWrong!!! The correct answer is A.Light Year");getch();
-		       goto score;
-		       break;}
-
-
-		case 17:
-		printf("\n\n\nThe country famous for Samba Dance is........");
-		printf("\n\nA.Brazil\t\tB.Venezuela\n\nC.Nigeria\t\tD.Bolivia");
-		if (toupper(getch())=='A')
-			{printf("\n\nCorrect!!!");countr++; getch();
-			break;}
-		else
-		       {printf("\n\nWrong!!! The correct answer is A.Brazil");getch();goto score;
-		       break;}
-
-		case 18:
-		printf("\n\n\nWind speed is measure by__________?");
-		printf("\n\nA.Lysimeter\t\tB.Air vane\n\nC.Hydrometer\t\tD.Anemometer\n\n");
-		if (toupper(getch())=='D')
-			{printf("\n\nCorrect!!!");countr++; getch();
-			break;}
-		else
-		       {printf("\n\nWrong!!! The correct answer is D.Anemometer");getch();goto score;
-		       break;}
-
-		case 19:
-		printf("\n\n\nWhich city in the world is popularly known as The City of Temple?");
-		printf("\n\nA.Delhi\tB.Bhaktapur\n\nC.Kathmandu\tD.Agra\n\n");
-		if (toupper(getch())=='C')
-			{printf("\n\nCorrect!!!");countr++; getch();
-			break;}
-		else
-		       {printf("\n\nWrong!!! The correct answer is C.Kathmandu");getch();goto score;
-		       break;}
-
-		case 20:
-		printf("\n\n\nWhich hardware was used in the First Generation Computer?");
-		printf("\n\nA.Transistor\t\tB.Valves\n\nC.I.C\t\tD.S.S.I");
-		if (toupper(getch())=='B')
-			{printf("\n\nCorrect!!!");countr++; getch();
-			break;}
-		else
-		       {printf("\n\nWrong!!! The correct answer is B.Valves");getch();goto score;
-		       break;}
-
-		case 21:
-		printf("\n\n\nOzone plate is being destroyed regularly because of____ ?");
-		printf("\n\nA.L.P.G\t\tB.Nitrogen\n\nC.Methane\t\tD. C.F.C");
-		if (toupper(getch())=='D')
-			{printf("\n\nCorrect!!!");countr++; getch();
-			break;}
-		else
-		       {printf("\n\nWrong!!! The correct answer is D. C.F.C");getch();goto score;
-		       break;}
-
-		case 22:
-		printf("\n\n\nWho won the Women's Australian Open Tennis in 2007?");
-		printf("\n\nA.Martina Hingis\t\tB.Maria Sarapova\n\nC.Kim Clijster\t\tD.Serena Williams");
-		if (toupper(getch())=='D')
-			{printf("\n\nCorrect!!!");countr++; getch();
-			break;}
-		else
-		       {printf("\n\nWrong!!! The correct answer is D.Serena Williams");getch();goto score;
-		       break;}
-
-		case 23:
-		printf("\n\n\nWhich film was awarded the Best Motion Picture at Oscar in 2010?");
-		printf("\n\nA.The Secret in their Eyes\t\tB.Shutter Island\n\nC.The King's Speech\t\tD.The Reader");
-		if (toupper(getch())=='C')
-			{printf("\n\nCorrect!!!");countr++; getch();
-			break;}
-		else
-		       {printf("\n\nWrong!!! The correct answer is C.The King's Speech");getch();goto score;
-		       break;}}}
+        }}
 	score:
     system("cls");
 	score=(float)countr*100000;
@@ -499,19 +365,20 @@ void help()
     printf("\n\n                              HELP");
     printf("\n -------------------------------------------------------------------------");
     printf("\n ......................... C program Quiz Game...........");
-    printf("\n >> There are two rounds in the game, Qualifying Round & FINAL ROUND");
-    printf("\n >> In Qualifying round you will be asked a total of 3 questions to test your general");
+    printf("\n >> There are two rounds in the game, WARMUP ROUND & CHALLANGE ROUND");
+    printf("\n >> In warmup round you will be asked a total of 3 questions to test your general");
     printf("\n    knowledge. You will be eligible to play the game if you can give atleast 2");
     printf("\n    right answers otherwise you can't play the Game...........");
-    printf("\n >> Your game starts with the FINAL ROUND. In this round you will be asked");
-    printf("\n    total 10 questions each right answer will be awarded RS 100,000.");
-    printf("\n    By this way you can win upto ONE MILLION cash prize in Rupees...............");
+    printf("\n >> Your game starts with the CHALLANGE ROUND. In this round you will be asked");
+    printf("\n    total 10 questions each right answer will be awarded $100,000.");
+    printf("\n    By this way you can win upto ONE MILLION cash prize in USD...............");
     printf("\n >> You will be given 4 options and you have to press A, B ,C or D for the");
     printf("\n    right option");
     printf("\n >> You will be asked questions continuously if you keep giving the right answers.");
     printf("\n >> No negative marking for wrong answers");
 
 	printf("\n\n\t*********************BEST OF LUCK*********************************");
+	}
 
 void edit_score(float score, char plnm[20])
 	{system("cls");
