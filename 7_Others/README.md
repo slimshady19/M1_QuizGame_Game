@@ -2,6 +2,6 @@
 https://www.codewithc.com/quiz-game-mini-project-in-c/
 
 # Learning
-GeeksforGeeks
-SoloLearn
-W3Schools
+<br>GeeksforGeeks<br/>
+<br>SoloLearn<br/>
+<br>W3Schools<br/>
