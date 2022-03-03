@@ -1,8 +1,8 @@
 /**
- * @file hangman.c
- * @author Naman Thakur (namanthakur97@gmail.com)
- * @brief Hangman Game in C
- * @date 2022-02-11
+ * @file CheckYourGK.c
+ * @author Keshav Tiwari (Keshavtiwari896@gmail.com)
+ * @brief CheckYourGK in C
+ * @date 2022-03-04
  * 
  * @copyright Copyright (c) 2022
  * 
