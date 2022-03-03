@@ -35,10 +35,10 @@ It Has Very Easy User Interface to Play
 ## Weakness:
 It Has limited questions only
 
-## OPPURTUNITIES:
+## Oppurtunities:
 Can make the GUI more interactive in future
 
-## THREATS:
+## Threats:
 Someone can make more interactive game like this 
 
 
