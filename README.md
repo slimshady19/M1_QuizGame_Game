@@ -3,6 +3,7 @@
 ![Codiga Badge](https://img.shields.io/badge/code%20build%20quality-65-brightgreen) 
 ![Codiga Badge](https://img.shields.io/badge/Languages-2-blue)<br/>
 [![Manual workflow](https://github.com/KeshavTiwari23/M1_QuizGame_Game/actions/workflows/Manual%20testing.yml/badge.svg)](https://github.com/KeshavTiwari23/M1_QuizGame_Game/actions/workflows/Manual%20testing.yml)
+[![C/C++ CI](https://github.com/KeshavTiwari23/M1_QuizGame_Game/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/KeshavTiwari23/M1_QuizGame_Game/actions/workflows/cpp%20check.yml)
 
 Repository for creating a Quiz Game in C.
 
